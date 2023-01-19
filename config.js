@@ -13,7 +13,7 @@ global.fotonya4 = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg' //ini juga
 global.fotonya5 = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg' //ini juga ganti
 global.fotonya6 = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg'
-global.instagram = 'https://instagram.com/jstme._____
+global.instagram = 'https://instagram.com/jstme._____'
 
 global.helper = ['6285850539404']
 global.APIs = { // API Prefix
